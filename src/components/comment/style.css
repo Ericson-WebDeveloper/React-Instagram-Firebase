@@ -1,0 +1,9 @@
+
+.comments__section{
+    display: flex;
+    align-items: center;
+}
+
+.comment_username{
+    padding: 0;
+}

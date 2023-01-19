@@ -1,0 +1,41 @@
+
+.form__head {
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 12px 16px;
+    background-color: white;
+}
+
+/* .img__preview {
+   display: none; 
+} */
+
+.img__preview img {
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+ }
+
+.bottom_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn_upload {
+    padding: 5px 6px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn_upload:hover {
+    background-color: #fafafa;
+}
+
+.btn__icon__upload{
+    cursor: pointer;
+}

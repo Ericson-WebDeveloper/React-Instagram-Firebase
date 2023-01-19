@@ -1,0 +1,48 @@
+
+
+.post_feed_comment_section {
+    display: flex;
+    justify-content: space-between;
+}
+.post_feed_comment_section textarea {
+    width: 100%;
+    border: none;
+}
+
+.post_feed_comment_section textarea:focus {
+    border: none;
+}
+
+.post_feed_comment_section .comment__btn {
+    margin-top: 11px;
+    cursor: pointer;
+}
+
+.user_post_feed {
+    display: flex;
+    margin-bottom: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user_image_post{
+    border-radius: 30%;
+    width: 55px;
+    height: 53px;
+}
+
+.user_profile_post_feed {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post_feed_delete_btn {
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+}
+
+.post_feed_delete_btn:hover {
+    background-color: #fafafa;
+}

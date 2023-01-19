@@ -1,0 +1,9 @@
+.post__body{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     margin-left: 30%;
+     margin-right: 30%;
+     padding: 12px 16px;
+     background-color: white;
+}

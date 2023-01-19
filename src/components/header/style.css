@@ -1,0 +1,16 @@
+
+.header__head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__btn {
+    max-width: 250px;
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
