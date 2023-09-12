@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![screencapture-react-insta-f1754-web-app-2023-09-12-19_16_34](https://github.com/Ericson-WebDeveloper/React-Instagram-Firebase/assets/60337201/30dffc9f-f51e-46f5-a51d-4886c2e58312)
+
+![screencapture-react-insta-f1754-web-app-2023-09-12-19_18_36](https://github.com/Ericson-WebDeveloper/React-Instagram-Firebase/assets/60337201/30b6572e-4f95-4f5d-b9ba-1e11f429c4f3)
+
 ## Available Scripts
 
 In the project directory, you can run:
